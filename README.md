@@ -221,6 +221,7 @@ class third_derived_class: public base_class
 
 - **Multilevel Inheritance Algorithm**:
 
+<img width="446" alt="image" src="https://github.com/PrsCPlusPlus/types-of-inheritence-OOP/assets/139451635/e78df7f3-4f6d-4ee3-bcd5-cedc34a5fa34">
 
 
 
