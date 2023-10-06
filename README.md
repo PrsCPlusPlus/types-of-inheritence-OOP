@@ -211,18 +211,17 @@ class third_derived_class: public base_class
 - **Single Inheritance Algorithm**:
 
 
-![image](https://github.com/RitvikArora22070123094/Types_of_Inheritance/assets/139522395/5596a5e8-6f37-4624-817d-272545bdbf77)
 
 
 
 - **Multiple Inheritance**
 
-![image](https://github.com/RitvikArora22070123094/Types_of_Inheritance/assets/139522395/bac7e4de-d512-41cc-affa-66abbe8bacac)
+
 
 
 - **Multilevel Inheritance Algorithm**:
 
-![image](https://github.com/RitvikArora22070123094/Types_of_Inheritance/assets/139522395/a5ca182a-53b5-4029-ab11-4075d7ee30f6)
+
 
 
   
