@@ -211,6 +211,7 @@ class third_derived_class: public base_class
 - **Single Inheritance Algorithm**:
 
 
+<img width="418" alt="image" src="https://github.com/PrsCPlusPlus/types-of-inheritence-OOP/assets/139451635/78784e02-add4-4b62-849b-a2f97d440fc9">
 
 
 
