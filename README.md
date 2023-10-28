@@ -216,6 +216,7 @@ class third_derived_class: public base_class
 
 
 - **Multiple Inheritance**
+<img width="473" alt="image" src="https://github.com/PrsCPlusPlus/types-of-inheritence-OOP/assets/139451635/d7b3992e-f47b-4ab7-94eb-0a3dde1d2388">
 
 
 
